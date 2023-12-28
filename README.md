@@ -1,1 +1,1 @@
-# Chess-React-app
+# chess-app-react
